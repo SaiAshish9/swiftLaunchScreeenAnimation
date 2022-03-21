@@ -13,6 +13,7 @@
 		9719B25E27E870DB00C899A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9719B25C27E870DB00C899A3 /* Main.storyboard */; };
 		9719B26027E870DC00C899A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9719B25F27E870DC00C899A3 /* Assets.xcassets */; };
 		9719B26327E870DC00C899A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9719B26127E870DC00C899A3 /* LaunchScreen.storyboard */; };
+		9719B26B27E8791000C899A3 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9719B26A27E8791000C899A3 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9719B25F27E870DC00C899A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9719B26227E870DC00C899A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9719B26427E870DC00C899A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9719B26A27E8791000C899A3 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9719B25F27E870DC00C899A3 /* Assets.xcassets */,
 				9719B26127E870DC00C899A3 /* LaunchScreen.storyboard */,
 				9719B26427E870DC00C899A3 /* Info.plist */,
+				9719B26A27E8791000C899A3 /* HomeViewController.swift */,
 			);
 			path = LaunchScreenAnimation;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9719B25B27E870DB00C899A3 /* ViewController.swift in Sources */,
 				9719B25727E870DB00C899A3 /* AppDelegate.swift in Sources */,
 				9719B25927E870DB00C899A3 /* SceneDelegate.swift in Sources */,
+				9719B26B27E8791000C899A3 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
